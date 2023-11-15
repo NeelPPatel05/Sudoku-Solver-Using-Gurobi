@@ -14,6 +14,7 @@ Once finished installing you can run the code
 Enter the row column and number for every box with given numbers into the terminal when prompted. Once finished the code will print a solved sudoku grid. Gurobipy and Numpy must be installed for the code to work. It uses the numpy and Gurobi library
 
 Example of Using the Code
+Puzzle From: https://sudoku.com/ 
 
 ![Alt text](image.png)
 
